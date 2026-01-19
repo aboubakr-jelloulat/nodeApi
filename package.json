@@ -1,0 +1,23 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "learning nodej",
+  "homepage": "https://github.com/aboubakr-jelloulat/nodeApi#readme",
+  "bugs": {
+    "url": "https://github.com/aboubakr-jelloulat/nodeApi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboubakr-jelloulat/nodeApi.git"
+  },
+  "license": "ISC",
+  "author": "ajelloul",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
